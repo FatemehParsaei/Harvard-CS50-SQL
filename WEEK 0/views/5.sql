@@ -5,5 +5,5 @@ print actually have much contrast?
 
 
 
-select max("contrast") from views where "artist"='Hokusai';
+select max("contrast")  as "Maximum Contrast" from views where "artist"='Hokusai';
 
