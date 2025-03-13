@@ -1,7 +1,7 @@
 Your team is working on archiving old data. In 2.sql, write a SQL query 
 to find the names of districts that are no longer operational.
 
-Districts that are no longer operational have ì(non-op)î at the end of their name.
+Districts that are no longer operational have ‚Äú(non-op)‚Äù at the end of their name.
 
 
 
